@@ -34,3 +34,8 @@ This app provides real-time chat, post sharing, likes, content suggestions, and 
 
 ---
 
+## 🔗 Demo  
+
+👉 [Live Demo] -> https://socialsphere-2vjs.onrender.com  
+
+*(Replace with your deployed project link)*  

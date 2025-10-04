@@ -20,7 +20,7 @@ export function readFileAsDataURL(file) {
 }
 
 // Centralized API base and helpers
-export const API_BASE = import.meta.env.VITE_API_BASE || "http://localhost:8000";
+export const API_BASE = import.meta.env.VITE_API_BASE || "https://socialsphere-2vjs.onrender.com";
 
 export function apiUrl(path) {
   const trimmed = path.startsWith("/") ? path : `/${path}`;
